@@ -1,5 +1,7 @@
 # PROJECTONE
 
+This is a project build off of the Egghead.io introduction to Angular2 series which I'm using to experiment with different aspects of Angular 2. This may at some point move away from the content of the original project and should not be taken as an example of the end product of the tutorial.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
 ## Development server
